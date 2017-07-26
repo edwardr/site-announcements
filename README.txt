@@ -43,5 +43,8 @@ No, each announcement is hidden based on its ID specifically.
 
 == Changelog ==
 
+= 1.0.1 =
+* Update for plugin assets
+
 = 1.0.0 =
 * Initial release
