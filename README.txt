@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Site Announcements ===
 Contributors: wpnook
 Donate link: https://codewrangler.io
 Tags: announcements, news, users, messages
