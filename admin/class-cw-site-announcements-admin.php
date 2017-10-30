@@ -110,10 +110,9 @@ class CW_Site_Announcements_Admin {
 
 		if( '' == $a->closable ) {
 			$a->closable = true;
-			echo 'emty';
 			$checked = true;
 		} else {
-			if( $a->closable == 1) {
+			if( $a->closable == 1 ) {
 				$a->closable = true;
 				$checked = true;
 			} else {
