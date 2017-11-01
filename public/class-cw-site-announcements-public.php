@@ -133,7 +133,7 @@ class CW_Site_Announcements_Public {
 
 			if( !$user_hidden ) {
 				if( '' == $announcement->content ) {
-					$name = '' == $announcement->url ? '<h4 style="color: ' . $announcement->text_color . '">' . $announcement->name . '</h4>' : '<a style="color: ' . $announcement->text_color . '" href="' . esc_url( $announcement->url ) . '"><h4 class="cw-announcement-title">' . $announcement->name . '</h4></a>';
+					$name = '' == $announcement->url ? '<h4 style="color: ' . $announcement->text_color . '">' . $announcement->name . '</h4>' : '<a style="color: ' . $announcement->text_color . '" href="' . esc_url( $announcement->url ) . '"><h4 style="color: ' . $announcement->text_color . '" class="cw-announcement-title">' . $announcement->name . '</h4></a>';
 				} else {
 					$name = '' == $announcement->url ? '<a style="color: ' . $announcement->text_color . '" class="cw-launch-modal" href=""><h4 class="cw-announcement-title" style="color: ' . $announcement->text_color . '">' . $announcement->name . '</h4></a>' : '<a style="color: ' . $announcement->text_color . '" href="' . esc_url( $announcement->url ) . '"><h4 style="color: ' . $announcement->text_color . '" class="cw-announcement-title">' . $announcement->name . '</h4></a>';
 				}
