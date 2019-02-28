@@ -3,7 +3,7 @@ Contributors: wpnook
 Donate link: https://codewrangler.io
 Tags: announcements, news, users, messages
 Requires at least: 4.0
-Tested up to: 4.8.2
+Tested up to: 5.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
