@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Site Announcements
  * Plugin URI:        https://codewrangler.io
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Site Announcements allows you to broadcast site-wide messages to your visitors
  * Version:           1.0.4
  * Author:            CodeWrangler, Inc.
  * Author URI:        https://codewrangler.io
