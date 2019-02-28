@@ -16,7 +16,7 @@
  * Plugin Name:       Site Announcements
  * Plugin URI:        https://codewrangler.io
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.3
+ * Version:           1.0.4
  * Author:            CodeWrangler, Inc.
  * Author URI:        https://codewrangler.io
  * License:           GPL-2.0+

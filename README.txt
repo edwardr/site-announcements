@@ -43,6 +43,9 @@ No, each announcement is hidden based on its ID specifically.
 
 == Changelog ==
 
+= 1.0.4 =
+* Fixes color-picker issue
+
 = 1.0.3 =
 * Fixes custom text color issue when content is empty
 
